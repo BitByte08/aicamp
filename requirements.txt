@@ -3,3 +3,4 @@ firebase_admin
 openai
 json
 time
+openai==0.27.1
